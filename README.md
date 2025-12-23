@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Yuki, a Logistics & Supply Chain Focus Business Analyst.  
-I mostly work on Cargowise (ERP systme for Freight Forwarder) Implementation Project as Cargowise Consultant.  
+I mostly work on Cargowise (ERP systme for Freight Forwarder) Implementation Project as Consultant.  
 I am currently learning on Data Analytics using SQL and PowerBI to create BI dashboard for my client.
 
 
